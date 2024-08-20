@@ -6,8 +6,8 @@
 Check out the live website: [Convo](https://convo-fawn.vercel.app)
 
 Use these login details if you want to check the demo
-email - ET@gmail.com
-password - 12345678
+#### email - ET@gmail.com
+#### password - 12345678
 
 
 ## Table of Contents
