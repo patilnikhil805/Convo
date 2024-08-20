@@ -52,26 +52,26 @@ Convo is a feature-rich chat application designed to mimic the core functionalit
 
 ## Demo
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Login Page
+![Login Page](./public/images/m1.png)
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Users Page
+![Conversation Page](./public/images/m2.png)
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Edit Profile Page
+![Edit Profile Page](./public/images/m3.png)
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Upload Images in Conversation Page
+![Upload Images in Conversation Page](././public/images/m4.png)
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Profile Details Page
+![Details Page](././public/images/m5.png)
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Group Feature
+![Group](././public/images/m6.png)
 
-### Homepage
-![Homepage Screenshot](./assets/homepage.png)
+### Messages Page
+![Homepage Screenshot](././public/images/m7.png)
 
 ## Installation and Setup
 
