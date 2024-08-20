@@ -8,11 +8,12 @@
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
-4. [Installation and Setup](#installation-and-setup)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+4. [Demo](#demo)
+5. [Installation and Setup](#installation-and-setup)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Contact](#contact)
 
 ## Project Overview
 
@@ -48,6 +49,29 @@ Convo is a feature-rich chat application designed to mimic the core functionalit
   - NextAuth.js
 - **Deployment:**
   - Vercel
+
+## Demo
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
+
+### Homepage
+![Homepage Screenshot](./assets/homepage.png)
 
 ## Installation and Setup
 
